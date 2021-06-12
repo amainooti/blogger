@@ -1,0 +1,18 @@
+{
+    "name": "myblog",
+    "version": "1.0.0",
+    "description": "beta blog using arrays as a db ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Amaino Oti",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "lander": "^1.0.0",
+        "lodash": "^4.17.21"
+    }
+}
